@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "71394683262",
+    "firebase_url": "https://ethio-clubs-dd432.firebaseio.com",
+    "project_id": "ethio-clubs-dd432",
+    "storage_bucket": "ethio-clubs-dd432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71394683262:android:53cb7e452d91d0bb03ab2f",
+        "android_client_info": {
+          "package_name": "com.example.payment_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71394683262-rola9aclq1ima0vj409susg3rio82gf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsWh2oB-OhUZlxhj2CuGZ1WeL4NWgV2Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71394683262-rola9aclq1ima0vj409susg3rio82gf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
